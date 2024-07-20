@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/animatedate-app/static/css/main.716b8866.css",
+    "main.js": "/animatedate-app/static/js/main.9b90aaa6.js",
+    "static/js/453.04f4fe8f.chunk.js": "/animatedate-app/static/js/453.04f4fe8f.chunk.js",
+    "static/media/GuitarSeren.png": "/animatedate-app/static/media/GuitarSeren.8879b23cf1fdba30d03b.png",
+    "index.html": "/animatedate-app/index.html",
+    "main.716b8866.css.map": "/animatedate-app/static/css/main.716b8866.css.map",
+    "main.9b90aaa6.js.map": "/animatedate-app/static/js/main.9b90aaa6.js.map",
+    "453.04f4fe8f.chunk.js.map": "/animatedate-app/static/js/453.04f4fe8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716b8866.css",
+    "static/js/main.9b90aaa6.js"
+  ]
+}
